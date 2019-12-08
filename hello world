@@ -1,3 +1,7 @@
 hello
 no hello
+<<<<<<< HEAD
 lov=c merge
+=======
+merge 2 conflict remote
+>>>>>>> refs/remotes/origin/master

@@ -1,3 +1,8 @@
 
 f
+<<<<<<< HEAD
 local merge
+=======
+merge
+conflict
+>>>>>>> refs/remotes/origin/master
