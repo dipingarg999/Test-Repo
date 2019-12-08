@@ -1,6 +1,7 @@
 agdghdhfhgdhfd
+sfg
 
 
-
-adding 1
+sgadding 1
 added line 1
+loc mr
